@@ -12,5 +12,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 2 languages(English and Mandarin)
 
+#### Languages and Tools:
+<img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/css.jpeg?raw=true">
+<img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/docker.png?raw=true">
 
 
