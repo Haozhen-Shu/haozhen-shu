@@ -14,6 +14,6 @@
 
 #### Languages and Tools:
 <div>
-<img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/css.jpeg?raw=true" width=45 height=45>
-<img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/docker.png?raw=true" width=80 height=80>
+<img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/css.jpeg?raw=true" width=50 height=50>
+<img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/docker.png?raw=true" width=50 height=50>
 </div>
