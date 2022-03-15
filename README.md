@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on software engineering                                                                                        
--  - 🌱 I’m currently learning building applications
+- 🌱 I’m currently learning building applications
 - 👯 I’m looking to collaborate on other developers
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: She/Her
