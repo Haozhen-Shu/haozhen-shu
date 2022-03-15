@@ -23,7 +23,7 @@
 <img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/js.png?raw=true" width=50 height=50>
 <img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/mysql.jpeg?raw=true" width=50 height=50>
 <img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/nodejs.jpeg?raw=true" width=50 height=50>
-<img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/postgresql.jpeg?raw=true" width=50 height=50>
+<img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/postgre.jpeg?raw=true" width=50 height=50>
 <img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/py.png?raw=true" width=50 height=50 >
 <img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/react_redux.jpeg?raw=true" width=50 height=50>
 <img src="https://github.com/Haozhen-Shu/haozhen-shu/blob/main/icons/vscode.jpeg?raw=true" width=50 height=50 >
